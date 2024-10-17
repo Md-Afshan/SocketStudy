@@ -86,6 +86,5 @@ s.send("acknowledgement recieved from the server".encode())
 ## Output:
 
 ![ex-1a](Ex-1a.png)
-
 ## Result:
 Thus the study of Socket Programming Completed Successfully.
